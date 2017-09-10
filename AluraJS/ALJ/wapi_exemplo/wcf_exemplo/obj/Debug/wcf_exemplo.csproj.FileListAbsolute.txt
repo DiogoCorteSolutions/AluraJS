@@ -1,0 +1,6 @@
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\obj\Debug\wcf_exemplo.csprojResolveAssemblyReference.cache
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\bin\wcf_exemplo.dll.config
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\bin\wcf_exemplo.dll
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\bin\wcf_exemplo.pdb
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\obj\Debug\wcf_exemplo.dll
+D:\Projetos\ALJ\wapi_exemplo\wcf_exemplo\obj\Debug\wcf_exemplo.pdb
